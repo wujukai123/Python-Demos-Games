@@ -1,0 +1,8 @@
+print('Welcome to the world of arithmetic!')
+input('3652+4607=?')
+print('The correct answer is 8259!')
+input('21427+19821=?')
+print('The correct answer is 41248!')
+input('271892+441728=?')
+print('The correct answer is 713620!')
+print('You are a star!Bye!')
